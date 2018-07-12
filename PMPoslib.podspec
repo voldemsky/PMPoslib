@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "PMPoslib" # 项目名称
-  s.version      = "2.0.0"        # 版本号 与 你仓库的 标签号 对应
+  s.version      = "1.0.0"        # 版本号 与 你仓库的 标签号 对应
   s.license      = "MIT"          # 开源证书
   s.summary      = "随行付MPOS开源PODS" # 项目简介
 
